@@ -13,7 +13,7 @@ dicionario_criptografia = {
     'I': '5',
     'J': '%',
     'K': '()',
-    'L': '5',
+    'L': '1',
     'M': '%',
     'N': '@',
     'O': '*',
@@ -76,7 +76,7 @@ while True:
             elif letter in 'Ii': encrypt += '5'
             elif letter in 'Jj': encrypt += '%'
             elif letter in 'Kk': encrypt += '()'
-            elif letter in 'Ll': encrypt += '5'
+            elif letter in 'Ll': encrypt += '1'
             elif letter in 'Mm': encrypt += '%'
             elif letter in 'Nn': encrypt += '@'
             elif letter in 'Oo': encrypt += '*'
