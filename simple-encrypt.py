@@ -34,7 +34,7 @@ while True:
             elif letter in 'Gg': encrypt += '¨'
             elif letter in 'Hh': encrypt += '&'
             elif letter in 'Ii': encrypt += '5'
-            elif letter in 'Jj': encrypt += '%'
+            elif letter in 'Jj': encrypt += '~'
             elif letter in 'Kk': encrypt += '|'
             elif letter in 'Ll': encrypt += '-'
             elif letter in 'Mm': encrypt += '%'
